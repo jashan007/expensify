@@ -1,0 +1,10 @@
+npm i --save-dev enzyme enzyme-adapter-react-16
+npm i react-test-renderer --save-dev
+npm i raf --save-dev
+uuid
+redux react-redux
+moment react-dates
+react-router-dom
+node-sass
+normalize
+react-addon shallow compare
